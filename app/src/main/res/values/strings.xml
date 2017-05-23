@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">ProyectoMovil</string>
+    <string name="departamentos">Departamentos</string>
+    <string name="buscar">Buscar</string>
+    <string name="tour">Tourisme NAJOS</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="title_activity_registro_ciudades">RegistroCiudades</string>
+    <string name="regitro">Registro</string>
+    <string name="ingreso">Ingrese Ciudad</string>
+    <string name="registrar">Registrar</string>
+    <string name="meta">Meta</string>
+    <string name="antioquia">Antioquia</string>
+    <string name="cauca">Cauca</string>
+    <string name="magdalena">Magdalena</string>
+    <string name="cordoba">Cordoba</string>
+    <string name="narinio">Nariño</string>
+    <string name="tolima">Tolima</string>
+    <string name="guania">Guania</string>
+    <string name="atlantico">Atlantico</string>
+    <string name="valledel">Valle del Cauca</string>
+    <string name="mensaje">Ciudad guardada con exito</string>
+    <string name="mensaje2">Puntuacion para el sitio guardado</string>
+    <string name="mensaje3">Ayuda para el sitio guardado</string>
+    <string name="error_1">Por favor digite una ciudad</string>
+    <string name="error_2">Por favor digite un nombre</string>
+    <string name="error_3">No se guardo su aporte</string>
+    <string name="enviar">Enviar</string>
+    <string name="puntuacion">Puntuacion Inicial</string>
+    <string name="total">No. de Puntuaciones</string>
+    <string name="Llave" />
+    <string name="nombre">Nombre</string>
+    <string name="punto">Puntos</string>
+    <string name="no">No.</string>
+    <string name="agregarNP">Agregar Nueva Puntuacion</string>
+    <string name="calificacionActual">La calificacion para el sitio es</string>
+    <string name="guatape">GUATAPE.</string>
+    <string name="guatapeintro">Hoy día, Guatapé cuenta con grandes potenciales para explotar el turismo religioso, el agroturismo, el ecoturismo, la cultura y la aventura. Cuenta con hoteles, restaurantes, barcos, lanchas y sitios turísticos para disfrutar, contemplar, meditar y descansar.</string>
+    <string name="gua">Los hoteles de 3 estrellas tienen un precio medio de $ 94.904.</string>
+    <string name="puntua">Puntua este sitio</string>
+    <string name="ayuda">Ayuda a los demas a saber que llevar!</string>
+    <string name="abrigo">Abrigo</string>
+    <string name="bloquador">Bloqueador</string>
+    <string name="kitM">Kit Medico</string>
+    <string name="repelente">Repelente</string>
+    <string name="total2">No. de Ayudas</string>
+    <string name="digite">Digite la Id de la vista</string>
+    <string name="id">ID</string>
+    <string name="codigo">Codigo</string>
+    <string name="aracataca">ARACATACA.</string>
+    <string name="texAracataca">Aracataca tiene una fama mundial por las novelas que han sido basadas en la cultura e historia del pueblo. Gente de todo el mundo vienen a conocer la Casa Museo de Gabriel García Márquez, La Estatua de Remedios La Bella, La Casa del Telegrafista o La Tumba de Melquíades.</string>
+    <string name="hoteles">Hoteles:</string>
+    <string name="comida">Comidas Tipicas:</string>
+    <string name="comidaT">Pionolo, Bandeja Paisa, Arepa Rellena, Arequipe</string>
+    <string name="hAracataca">Los pocos hoteles que hay varian en un promedio de $70.000</string>
+    <string name="quehacer">¿Que hacer?</string>
+    <string name="queh">Subir a la piedra del Peñol, Caminar por el pueblo y ver sus casitas de colores, La vuelta por el embalse de los barcos fiesteros, Actividades de aventura.</string>
+    <string-array name="deptos">
+        <item>@string/antioquia</item>
+        <item>@string/atlantico</item>
+        <item>@string/cauca</item>
+        <item>@string/cordoba</item>
+        <item>@string/guania</item>
+        <item>@string/magdalena</item>
+        <item>@string/meta</item>
+        <item>@string/narinio</item>
+        <item>@string/tolima</item>
+        <item>@string/valledel</item>
+    </string-array>
+</resources>
